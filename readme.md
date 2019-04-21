@@ -7,6 +7,8 @@
 * 非常高兴，非常感谢原作者：Daniel Scherzer。
 * 基于GLSL的插件，自己修改了一下，用于Cg的编写。
 
+![运行效果](https://github.com/Hiwen/CG/raw/master/cgHighLight.png "运行效果")
+
 ### TODO:
 * 完善关键字，函数列表，变量列表
 
