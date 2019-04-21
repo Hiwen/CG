@@ -6,6 +6,7 @@
 * 后来在Github上找到了GLSL插件的源码：https://github.com/danielscherzer/GLSL
 * 非常高兴，非常感谢原作者：Daniel Scherzer。
 * 基于GLSL的插件，自己修改了一下，用于Cg的编写。
+* 在安装的时候，本人测试，有支持vs2017的选项，不过目前没有实际测试vs2017。
 
 ![运行效果](https://github.com/Hiwen/CG/raw/master/cgHighLight.png "运行效果")
 
