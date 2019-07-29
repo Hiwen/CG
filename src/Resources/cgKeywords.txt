@@ -11,7 +11,7 @@ subroutine
 in out
 inout
 float float2 float3 float4
-float2x2 float3x3 float4x4
+float2x2 float3x3 float3x4 float4x4
 double int void
 bool
 true false
